@@ -17,3 +17,6 @@ Used technologies
 
 Preview
 ----------------
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ShyBlueMoon/Jokempo-Em-Kotlin/master/screen_recording_jokempo_kotlin.gif" alt="Gif showing how the app works." width="250"/>
